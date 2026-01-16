@@ -33,6 +33,11 @@ button {
 button:hover {
     background-color: #563927;
 
+    }
+.hero {
+    text-align: center;
+}
+
 }
 .hero-img {
     display: block;
@@ -42,6 +47,7 @@ button:hover {
     margin: 30px auto;
     border-radius: 12px;
 }
+
 
 
 
