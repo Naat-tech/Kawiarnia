@@ -32,4 +32,11 @@ button {
 
 button:hover {
     background-color: #563927;
+
+}
+.hero-img {
+    width: 80%;
+    max-width: 800px;
+    border-radius: 12px;
+    margin-top: 30px;
 }
