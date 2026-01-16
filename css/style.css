@@ -36,12 +36,13 @@ button:hover {
 }
 .hero-img {
     display: block;
-    margin: 20px auto;
+    max-width: 500px;
     width: 100%;
-    max-width: 800px;
+    heigh: auto;
+    margin: 30px auto;
     border-radius: 12px;
-    margin-top: 30px;
 }
+
 
 
 
