@@ -1,0 +1,3 @@
+function showMessage() {
+    alert("Przejdź do zakładki MENU, aby zobaczyć naszą ofertę ☕");
+}
