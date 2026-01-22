@@ -71,6 +71,13 @@ button:hover {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
+.description {
+    max-width: 600px;
+    margin: 40px auto;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
 
 
 
