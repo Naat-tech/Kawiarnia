@@ -78,6 +78,29 @@ button:hover {
     line-height: 1.6;
 }
 
+.about-preview {
+    margin: 80px auto;
+    max-width: 900px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.features {
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.feature {
+    background: #fff;
+    padding: 25px;
+    max-width: 260px;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
 
 
 
