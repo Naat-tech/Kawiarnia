@@ -43,15 +43,16 @@ button:hover {
     text-align: center;
 }
 
-}
 .hero-img {
     display: block;
     max-width: 500px;
     width: 100%;
-    heigh: auto;
+    height: auto;
     margin: 30px auto;
     border-radius: 12px;
 }
+
+
 
 
 
