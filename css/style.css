@@ -19,7 +19,12 @@ nav a {
 
 .hero {
     text-align: center;
-    padding: 60px;
+}
+
+.hero-img {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
 }
 
 button {
@@ -47,6 +52,7 @@ button:hover {
     margin: 30px auto;
     border-radius: 12px;
 }
+
 
 
 
