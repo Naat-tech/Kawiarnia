@@ -1,13 +1,15 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(
-        180deg,
-        #f3efe9 0%,
-        #e6ddcf 50%,
-        #d9cfc1 100%
-    );
+    background-image: linear-gradient(
+        rgba(255,255,255,0.85),
+        rgba(255,255,255,0.85)
+    ),
+    url("https://images.unsplash.com/photo-1445116572660-236099ec97a0");
+    background-size: cover;
+    background-attachment: fixed;
 }
+
 
 
 
@@ -202,6 +204,7 @@ section {
         transform: translateY(0);
     }
 }
+
 
 
 
