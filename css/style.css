@@ -1,8 +1,14 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(180deg, #f5f5f5, #eae2d6);
+    background: linear-gradient(
+        180deg,
+        #f3efe9 0%,
+        #e6ddcf 50%,
+        #d9cfc1 100%
+    );
 }
+
 
 
 header {
@@ -196,6 +202,7 @@ section {
         transform: translateY(0);
     }
 }
+
 
 
 
