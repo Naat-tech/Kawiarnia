@@ -134,6 +134,17 @@ section {
     box-shadow: 0 6px 20px rgba(0,0,0,0.15);
 }
 
+.feature,
+.info-box {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature:hover,
+.info-box:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+}
+
 
 
 
