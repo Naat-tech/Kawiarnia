@@ -145,6 +145,15 @@ section {
     box-shadow: 0 10px 25px rgba(0,0,0,0.18);
 }
 
+.menu-button {
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.menu-button:hover {
+    background-color: #563927;
+    transform: scale(1.05);
+}
+
 
 
 
